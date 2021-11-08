@@ -1,3 +1,2 @@
-# publicProjects
-This is where all personal projects will be uploaded for possible prospective employers.
-There are currently no projects available to the public, please check back soon!
+# TopMarks
+This is a project designed by myself and four other students. This is a simulation of an interactive Grade-Calculating application with many useful features for students to navigate their course grades.
