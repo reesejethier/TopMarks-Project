@@ -1,6 +1,5 @@
 /***********************************************************************************************************************
  * Class Name:      Category.java
- * Author:          James Singleton
  * Description:     This is the representation of each assignment category in a Student’s Course. A Category has a name,
  *                  an ArrayList of Assignments called grades, a distMod which is used to give the Category a specific
  *                  weight in terms of final grade and the number of lowest assignments that will be dropped for this
