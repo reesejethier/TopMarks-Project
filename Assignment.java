@@ -1,6 +1,5 @@
 /***********************************************************************************************************************
  * Class Name:      Assignment.java
- * Author:          James Singleton
  * Description:     This is the representation of an assignment that a student has completed and been given a grade. An
  *                  Assignment has a score which is the grade the student has received for the assignment and a name to
  *                  keep track of which assignment it is.
